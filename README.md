@@ -18,3 +18,11 @@ Example:
   - jQuery and VanillaJS 
   - https://github.com/norfolkjs/norfolkjs.github.io
   - @norfolkjs
+  - 
+
+Local Projects
+---
+- Mullet.io
+  - React.js, Hapi, Node, Grunt
+  - https://github.com/lynnaloo/mullet
+  - @lynnaloo
