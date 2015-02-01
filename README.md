@@ -7,13 +7,13 @@ Contribute
 All local projects are welcome to be added 
 Submit a project with your name and link to the project 
 
-example 
+Template: 
 - Project
   - Technology
   - Link to project
   - Point of contact 
 
-example 
+Example: 
 - NorfolkJS website 
   - jQuery and VanillaJS 
   - https://github.com/norfolkjs/norfolkjs.github.io
