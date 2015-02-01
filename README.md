@@ -18,7 +18,6 @@ Example:
   - jQuery and VanillaJS 
   - https://github.com/norfolkjs/norfolkjs.github.io
   - @norfolkjs
-  - 
 
 Local Projects
 ---
