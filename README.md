@@ -25,3 +25,8 @@ Local Projects
   - React.js, Hapi, Node, Grunt
   - https://github.com/lynnaloo/mullet
   - @lynnaloo
+- mocha-phantomjs
+  - :coffee: :ghost: PhantomJS Runners for Mocha
+  - https://github.com/metaskills/mocha-phantomjs
+  - @metaskills
+
